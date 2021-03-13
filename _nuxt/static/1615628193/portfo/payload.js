@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/portfo", {data:[{}],fetch:{},mutations:[]});
